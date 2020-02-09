@@ -1,5 +1,5 @@
 my:
-  greeting: hello world from config repo for student
+  greeting: hello world from config repo for student......!!
 
 db:
   connection: connection-string-from-config-repo-student
