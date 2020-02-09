@@ -1,0 +1,7 @@
+my:
+  greeting: hello world from config repo
+
+db:
+  connection: connection-string-from-config-repo
+  host: 188.0.0.2
+  port: 3900
