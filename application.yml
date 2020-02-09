@@ -1,7 +1,12 @@
 my:
   greeting: hello world from config repo
+  list:
+     Values: Config Repo one, Config Repo Two, Config Repo Three
 
 db:
   connection: connection-string-from-config-repo
   host: 188.0.0.2
   port: 3900
+app:
+  name: My app from Config Server
+  description: Welcome to ${app.name}
