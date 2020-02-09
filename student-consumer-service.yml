@@ -1,0 +1,10 @@
+my:
+  greeting: hello world from config repo for student
+
+db:
+  connection: connection-string-from-config-repo-student
+  host: 122.0.0.4
+  port: 2340
+app:
+  name: My app from Config Server student
+  description: Welcome to ${app.name}
